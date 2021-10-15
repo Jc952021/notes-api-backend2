@@ -1,0 +1,8 @@
+# DELETE http://localhost:3000/notes/1
+POST http://localhost:3000/notes
+content-type: application/json
+
+{
+  "content": "Me tengo que irxddddd",
+  "important": true
+}
